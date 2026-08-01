@@ -7,7 +7,7 @@ Implementation of HW2 for signals and systems course (IC detetction using templa
 
 ## DSP
 
-Final project of Digital Dignal Processing (DSP) course
+Final project of the Digital Dignal Processing (DSP) course
 
 ## DSP-LAB
 
