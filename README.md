@@ -3,7 +3,7 @@ Some signal processing-related projects
 
 ## signals and systems
 
-Implementation of HW2 for signals and systems course (IC detetction using template matching)
+Implementation of the second homework for the signals and systems course (IC detetction using template matching)
 
 ## DSP
 
